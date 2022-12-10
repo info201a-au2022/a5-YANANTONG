@@ -3,7 +3,7 @@ library(ggplot2)
 library(DT)
 library(rsconnect)
 
-source("data_visualization_A5.R")
+source("app.R")
 
 page_one <- tabPanel(
   "Introduction",

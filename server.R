@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 library(rsconnect)
-source("data_visualization_A5.R")
+source("app.R")
 
 shinyServer(function(input, output) {
 
